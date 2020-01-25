@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Ansh first page</title>
+  </head>
+  <body>
+
+<h3> My contact </h3>
+<p>phone : +9199999999</p>
+<p>email  : anshawaffbhi@gmail.com</p>
+<hr>
+
+<center>
+<H1>Feedback submit form</H1>
+
+<form class="" action="ALE" method="post">
+  <label>Enter  firstname</label><br><BR>
+<input type="text" name="firstname" value="">
+<br><br>
+<label>Enter password</label><br><br>
+<input type="password" name="pass1" value=""><br><br>
+<input type="submit" name="Submit" value="Submit"><br><br>
+<textarea name="name" rows="8" cols="80"></textarea><br><br>
+<a href="mailto:anshawasthi24@gmail.comsubject=feedback">email me and submit</a>
+
+</body>
+</html>
